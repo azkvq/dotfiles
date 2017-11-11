@@ -1,4 +1,5 @@
 home/.bashrc
+home/.config/i3status/config
 home/.config/lxterminal/lxterminal.conf
 home/.config/xmodmap.conf
 home/.gitconfig
