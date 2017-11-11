@@ -3,3 +3,4 @@ home/.gitconfig
 home/.gnupg/gnu.conf
 home/.ssh/config
 home/.xscreensaver
+home/.zshrc
