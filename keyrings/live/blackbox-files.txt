@@ -4,6 +4,7 @@ home/.config/i3/config
 home/.config/i3status/config
 home/.config/lxterminal/lxterminal.conf
 home/.config/xmodmap.conf
+home/.fehbg
 home/.gitconfig
 home/.gnupg/gnu.conf
 home/.ssh/config
