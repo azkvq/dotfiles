@@ -3,3 +3,4 @@
 /keyrings/live/secring.gpg
 /home/.ssh/config
 /home/.bashrc
+/home/.gnupg/gnu.conf
