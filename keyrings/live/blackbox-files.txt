@@ -1,4 +1,5 @@
 home/.bashrc
+home/.config/xmodmap.conf
 home/.gitconfig
 home/.gnupg/gnu.conf
 home/.ssh/config
